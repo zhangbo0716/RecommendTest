@@ -10,6 +10,6 @@ package com.yao.hadoop;
 public class ItemBasedTest {
 
     public static void main(String args[]) throws Exception {
-
+        System.out.print("¿≠∑÷÷ß");
     }
 }
