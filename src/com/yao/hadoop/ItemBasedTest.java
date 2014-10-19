@@ -8,4 +8,8 @@ package com.yao.hadoop;
  * To change this template use File | Settings | File Templates.
  */
 public class ItemBasedTest {
+
+    public static void main(String args[]) throws Exception {
+
+    }
 }
